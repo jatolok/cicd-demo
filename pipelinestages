@@ -1,0 +1,7 @@
+1. Trigger: Code pushed/PR created
+2. Build: Compile code, install dependencies
+3. Test: Run unit, integration, e2e tests
+4. Analyze: Lint, security scan, code quality
+5. Package: Create Docker image, artifacts
+6. Deploy: Push to dev/staging/production
+7. Monitor: Track deployments, rollback if needed'
